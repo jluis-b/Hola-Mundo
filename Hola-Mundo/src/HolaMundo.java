@@ -10,6 +10,7 @@ public class HolaMundo {
 		//cambio 1
 		//
 		int var1= 12;
+		System.out.println("Hola en nueva rama");
 	}
 
 }
