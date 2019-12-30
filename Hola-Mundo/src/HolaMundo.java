@@ -6,6 +6,10 @@ public class HolaMundo {
 		//hola
 		// Esto es la rama master
 		System.out.println("Hola");
+		// Esto es la rama vip
+		//cambio 1
+		//
+		int var1= 12;
 	}
 
 }
