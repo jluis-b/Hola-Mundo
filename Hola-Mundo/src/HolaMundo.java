@@ -6,6 +6,8 @@ public class HolaMundo {
 		//hola
 		// Esto es la rama vip
 		//cambio 1
+		//
+		int var1= 12;
 	}
 
 }
